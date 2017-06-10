@@ -1,0 +1,179 @@
+/* coolors
+
+japanese violet #432D56
+isabelline      #F3E8EE
+snow            #FCFAFA
+black shadows   #BAABBD
+spanish grey    #A29C9B
+
+link colors
+
+5D737E
+5386E4
+
+font-family: 'Roboto', sans-serif;
+font-family: 'Indie Flower', cursive;
+font-family: 'Poiret One', cursive;
+
+*/
+@import url('https://fonts.googleapis.com/css?family=Kalam|Patua+One|Roboto');
+
+body{
+	background-color:#BAABBD;
+	color:#A29C9B;
+	font-family: 'Roboto', sans-serif;
+	font-size:30px;
+	font-weight:500;
+}
+.topbar {
+	height:70px;
+	background-color: #BAABBD;
+	text-align:center;
+	border-bottom: 2px solid #432D56;
+}
+
+.divpad{
+	height:70px;
+}
+
+.topbar a{
+	margin-top:15px;
+	padding:20px;
+	color:#432D56;
+	font-size:35px;
+	line-height:70px;
+	text-decoration:none;
+
+}
+.topbar a:hover{
+	color:#5D737E;
+	
+}
+.topbar a:active,
+.topbar a:focus,
+.topbar a:active:focus
+{
+	text-decoration:none;
+	color:#5386E4;
+}
+
+.top{
+	background-color:#432D56;
+	padding-top:10vh;
+	padding-bottom:5vh;
+	
+}
+
+.bio {
+	display: table;
+	height:300px;
+	margin-bottom:60px;
+}
+
+.text  {
+    display: table-cell;
+    vertical-align: middle;
+    font-family: 'Roboto', sans-serif;
+}
+.pic{
+	margin-bottom:60px;
+}
+
+.picture{
+	border-radius:300px;
+	height:300px;
+	width:300px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:60px;
+}
+.me{
+	border-radius:300px;
+	width:100%;
+	border:2px solid #A29C9B
+}
+.picture p{
+	text-align:center;
+	color:white;
+	font-size:25px;
+}
+
+/* middle div */
+.row.mid {
+    
+}
+
+.mid{
+	padding-top:90px;
+	background-color:#F3E8EE;
+	text-align:center;
+	padding-bottom:60px;
+}
+
+.folio{
+	border-radius:15px;
+	max-width:80%;
+	max-height:80%;
+	border: 2px solid #432D56;
+
+}
+
+.projectBox{
+	color:#432D56;
+	margin-bottom:60px;
+	font-family: 'Patua One', cursive;
+
+}
+
+.links{
+	font-size:30px;
+	font-family: 'Kalam', cursive;
+	max-width:90%;
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:20px;
+}
+
+.nestedbox{
+	font-size:1em;
+	color:#5386E4;
+}
+
+
+.bot{
+	background-color:#BAABBD;
+	height:90px;
+	text-align:center;
+	border-top:2px solid #432D56;
+}
+
+.fa{
+	font-size:50px;
+	color:#432D56;
+	border-style:solid;
+	border-width:3px;
+	padding:5px;
+	padding-bottom:0;
+	border-radius:5px;
+	border-color:#432D56;
+	margin-top:5px;
+
+}
+.bot .btn:hover,
+.bot .btn:active,
+.bot .btn:active:focus,
+.bot span:active,
+.bot span:hover
+{
+	
+	color:#5386E4;
+	box-shadow: none;
+	text-decoration:none;
+}
+.bot span:active,
+.bot span:hover{
+	border-color:#5386E4;
+	color:#5386E4;
+	box-shadow: none;
+	text-decoration:none;
+}

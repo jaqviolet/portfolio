@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"star",
+				"startGame"
+			],
+			[
+				"timer",
+				"timerDisplay"
+			],
+			[
+				"wrong",
+				"wrongAnswer"
+			],
+			[
+				"curren",
+				"currentSequence"
+			],
+			[
+				"firs",
+				"firstarr"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"border",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 9026,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 2452,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "javascript/scripts.js",
+			"settings":
+			{
+				"buffer_size": 554,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jackbrittain/Documents/fcc/twitch/javascript/scripts.js",
+		"/Users/jackbrittain/Documents/fcc/Portfolio/index.html",
+		"/Users/jackbrittain/Google Drive/20160622_160304.jpg",
+		"/Users/jackbrittain/Desktop/workflows/package.json",
+		"/Users/jackbrittain/Desktop/Exercise Files/roux_website/spotlight.htm",
+		"/Users/jackbrittain/Desktop/Exercise Files/roux_website/index.htm",
+		"/Users/jackbrittain/Documents/fcc/quotegen/index.html",
+		"/Users/jackbrittain/Documents/fcc/tribute/index.html",
+		"/Users/jackbrittain/Documents/fcc/tribute/css/styles.css",
+		"/Users/jackbrittain/Documents/fcc/simon/javascript/scripts.js",
+		"/Users/jackbrittain/Documents/fcc/simon/css/styles.css",
+		"/Users/jackbrittain/Documents/fcc/simon/index.html",
+		"/Users/jackbrittain/Documents/fcc/ttt/javascript/scripts.js",
+		"/Users/jackbrittain/Documents/fcc/ttt/css/styles.css",
+		"/Users/jackbrittain/Documents/fcc/ttt/index.html",
+		"/Users/jackbrittain/Documents/fcc/webAudio/css/styles.css",
+		"/Users/jackbrittain/Documents/fcc/webAudio/javascript/scripts.js",
+		"/Users/jackbrittain/Documents/fcc/webAudio/index.html",
+		"/Users/jackbrittain/Documents/fcc/wiki/index.html",
+		"/Users/jackbrittain/Documents/fcc/wiki/javascript/scripts.js",
+		"/Users/jackbrittain/Documents/fcc/wiki/css/styles.css",
+		"/Users/jackbrittain/Documents/fcc/twitch/css/styles.css",
+		"/Users/jackbrittain/Documents/fcc/twitch/index.html",
+		"/Users/jackbrittain/Documents/fcc/calc/javascript/scripts.js",
+		"/Users/jackbrittain/Documents/fcc/calc/css/styles.css",
+		"/Users/jackbrittain/Documents/fcc/calc/index.html",
+		"/Users/jackbrittain/Documents/fcc/pom/javascript/scripts.js",
+		"/Users/jackbrittain/Documents/fcc/pom/css/styles.css",
+		"/Users/jackbrittain/Documents/fcc/pom/index.html",
+		"/Users/jackbrittain/Documents/fcc/pom/css/javascript/scripts.js",
+		"/Users/jackbrittain/Documents/odin-project/ttt.rb",
+		"/Users/jackbrittain/Documents/odin-project/my_module.rb",
+		"/Users/jackbrittain/Documents/odin-project/bubble_sort_by.rb",
+		"/Users/jackbrittain/Documents/odin-project/project_ruby/learn_ruby/00_hello/hello.rb",
+		"/Users/jackbrittain/Documents/odin-project/spec:lib:zombie_spec.rb",
+		"/Users/jackbrittain/Documents/odin-project/bottles.rb",
+		"/Users/jackbrittain/Documents/odin-project/sort.rb",
+		"/Users/jackbrittain/Documents/odin-project/alph.rb",
+		"/Users/jackbrittain/Documents/odin-project/sort-alg.rb",
+		"/Users/jackbrittain/Documents/odin-project/bottlesEnglish.rb",
+		"/Users/jackbrittain/Documents/odin-project/englishNumber.rb",
+		"/Users/jackbrittain/Documents/odin-project/toc.rb",
+		"/Users/jackbrittain/Documents/odin-project/leap.rb",
+		"/Users/jackbrittain/Documents/odin-project/defma.rb",
+		"/Users/jackbrittain/Documents/odin-project/name.rb",
+		"/Users/jackbrittain/Documents/odin-project/length.rb",
+		"/Users/jackbrittain/Documents/odin-project/number.rb",
+		"/Users/jackbrittain/Documents/odin-project/student.rb",
+		"/Users/jackbrittain/Documents/odin-project/etch-a-sketch/etch-a-sketch/js/script.js",
+		"/Users/jackbrittain/Documents/odin-project/etch-a-sketch/etch-a-sketch/index.html",
+		"/Users/jackbrittain/Documents/odin-project/etch-a-sketch/etch-a-sketch/css/etch.css",
+		"/Users/jackbrittain/Documents/odin-project/etch-a-sketch/etch-a-sketch/etch.css",
+		"/Users/jackbrittain/Documents/odin-project/etch-a-sketch/etch-a-sketch/README.md",
+		"/Users/jackbrittain/railsbridge/test_app/config/routes.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"container",
+			"<div class='description",
+			"<li>",
+			"id=",
+			"coming events",
+			"<li>",
+			"<li>\n<li>",
+			"<li>",
+			"Francisco",
+			"Header",
+			"header",
+			"head",
+			"orange",
+			"20",
+			"disabled",
+			"enabled",
+			"loop",
+			"looop",
+			"disabled",
+			"orange",
+			"border:",
+			"grey",
+			"setTime",
+			"turns",
+			"checkWinner",
+			"console.log",
+			"turns",
+			"break",
+			"return",
+			"break",
+			"bot",
+			"value",
+			"guess",
+			"y",
+			"5",
+			" ]",
+			".",
+			"0",
+			"hash"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"header",
+			"Header",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 9026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1570,
+								1570
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 622.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/styles.css",
+					"settings":
+					{
+						"buffer_size": 2452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								942,
+								942
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 466.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "javascript/scripts.js",
+					"settings":
+					{
+						"buffer_size": 554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								259,
+								259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"index.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true
+}
